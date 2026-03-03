@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BMI_app</string>
+    <string name="App_heading">Welcome to BMI App</string>
+    <string name="cal_heading">BMI Calculation</string>
+    <string name="height_input">Enter your Height</string>
+    <string name="weight_input">Enter your Weight</string>
+    <string name="cal_btn">Calculate</string>
+    <string name="Result">Result</string>
+    <string name="btnstart">Start</string>
+    <string name="Result_btn">your Result</string>
+    <string name="user_name">name</string>
+    <string name="user_age">age</string>
+    <string name="female_Radiobtn">Female</string>
+    <string name="male_Radiobtn">Male</string>
+    <string name="gender">gender</string>
+    <string name="genderR">gender</string>
+    <string name="guidance">guidance</string>
+
+</resources>
