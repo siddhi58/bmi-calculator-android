@@ -1,10 +1,12 @@
-BMI Calculator 🩺
+<img width="1080" height="2340" alt="WhatsApp Image 2026-06-11 at 3 05 26 PM" src="https://github.com/user-attachments/assets/22edb683-bfff-4347-bb02-ee42aaf452d8" />BMI Calculator 🩺
 
 Enter your name, age, gender, weight and height — and get your BMI result with a full personalized guidance plan based 
 on your category. Not just a number. Actually useful.
 
 --------------------------------------------------------------------------------------------------------------------------------
-📸 Screenshots
+✦ Screenshots
+![Uploading WhatsApp Image 2026-06-11 at 3.05.26 PM.jpeg…]()
+
 
 
 
@@ -22,19 +24,19 @@ Input validation — won't let you proceed with empty fields
 
 
 -----------------------------------------------------------------------------------------------------------------------------------
-🛠 Tech
+✦ Tech
 
-Kotlin · XML · RadioButtons · SeekBar (Slider) · Intents · CardView · Android Studio
+Kotlin · XML · RadioButtons · Scrollview · Intents · CardView · Android Studio
 
 ------------------------------------------------------------------------------------------------------------------------------------
-▶ Run it
+✦ Run it
 
 bashgit clone https://github.com/siddhi58/bmi-calculator-android.git
 
 Open in Android Studio → let Gradle sync → hit Run. Needs API 21+.
 
 -------------------------------------------------------------------------------------------------------------------------------------
-💡 What I learned building this
+✦ What I learned building this
 
 This was my first Android project and it ended up being much more than I originally planned.
 
@@ -50,11 +52,13 @@ Getting it to display a live decimal value as the user drags it took some figuri
 a number.
 
 -------------------------------------------------------------------------------------------------------------------------------------
-🔧 What I'd improve next
+✦ What I'd improve next
 
 
 -Add a BMI history tracker so users can see progress over time
+
 -Metric and imperial unit toggle
+
 -Animated result reveal
 
 ---------------------------------------------------------------------------------------------------------------------------------------
