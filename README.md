@@ -70,7 +70,7 @@ It started simple — just calculate BMI and show the result. But then I thought
 Building the three-screen flow was where I got comfortable with Intents — passing name, age, and gender from screen one all the way through to the result screen. The gender avatar was a small touch but it made the result feel personal, which I liked.
 
 -------------------
-###🔧 What I'd improve next
+🔧 What I'd improve next
 
 
 -Add a BMI history tracker so users can see progress over time
