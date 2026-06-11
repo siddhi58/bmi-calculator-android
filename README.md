@@ -20,11 +20,11 @@ A clean Android application that calculates BMI and provides personalized health
 
 | Screen 4 |
 | :---: | 
-|<img width="400" height="500" alt="WhatsApp Image 2026-06-11 at 3 22 12 PM" src="https://github.com/user-attachments/assets/1b797687-28fc-4950-87c6-a29ee7cf6711" />|
+|<img width="300" height="500" alt="WhatsApp Image 2026-06-11 at 3 22 12 PM" src="https://github.com/user-attachments/assets/1b797687-28fc-4950-87c6-a29ee7cf6711" />|
 
 | Screen 5 |
 | :---: | 
-|<img width="400" height="500" alt="WhatsApp Image 2026-06-11 at 3 22 12 PM (1)" src="https://github.com/user-attachments/assets/40d92db9-88e8-4dc4-86e1-20be73e7a714" />|
+|<img width="300" height="500" alt="WhatsApp Image 2026-06-11 at 3 22 12 PM (1)" src="https://github.com/user-attachments/assets/40d92db9-88e8-4dc4-86e1-20be73e7a714" />|
 
 ---
 
