@@ -1,8 +1,6 @@
 # BMI Calculator 🩺
 
-Enter your name, age, gender, weight and height — and get your BMI result with a full personalized guidance plan based on your category. Not 
-
-just a number.
+Enter your name, age, gender, weight and height — and get your BMI result with a full personalized guidance plan based on your category. Not just a number.
 
 ---
 
