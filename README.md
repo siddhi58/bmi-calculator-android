@@ -53,9 +53,9 @@ a number.
 🔧 What I'd improve next
 
 
-Add a BMI history tracker so users can see progress over time
-Metric and imperial unit toggle
-Animated result reveal
+-Add a BMI history tracker so users can see progress over time
+-Metric and imperial unit toggle
+-Animated result reveal
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
