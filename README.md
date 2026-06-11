@@ -8,15 +8,15 @@ A clean Android application that calculates BMI and provides personalized health
 
 | Screen 1 |
 | :---: | 
-|<img width="400" height="500" alt="WhatsApp Image 2026-06-11 at 3 05 26 PM" src="https://github.com/user-attachments/assets/9fed5393-73dc-4e40-ada1-59d6c0b260dd" />|
+|<img width="500" height="500" alt="WhatsApp Image 2026-06-11 at 3 05 26 PM" src="https://github.com/user-attachments/assets/9fed5393-73dc-4e40-ada1-59d6c0b260dd" />|
 
 | Screen 2 |
 | :---: | 
-|<img width="400" height="500" alt="WhatsApp Image 2026-06-11 at 3 05 26 PM (1)" src="https://github.com/user-attachments/assets/cffedd60-5d59-4dc8-8389-b9b9dc8ba1c8" />|
+|<img width="500" height="500" alt="WhatsApp Image 2026-06-11 at 3 05 26 PM (1)" src="https://github.com/user-attachments/assets/cffedd60-5d59-4dc8-8389-b9b9dc8ba1c8" />|
 
 | Screen 3 |
 | :---: | 
-|<img width="400" height="500" alt="WhatsApp Image 2026-06-11 at 3 05 27 PM" src="https://github.com/user-attachments/assets/02fd29d6-cb51-4f6b-a807-e0e6f58c4215" />|
+|<img width="500" height="500" alt="WhatsApp Image 2026-06-11 at 3 05 27 PM" src="https://github.com/user-attachments/assets/02fd29d6-cb51-4f6b-a807-e0e6f58c4215" />|
 
 | Screen 4 |
 | :---: | 
