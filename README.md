@@ -1,6 +1,8 @@
 # BMI Calculator 🩺
 
-A clean Android application that calculates BMI and provides personalized health guidance.
+Enter your name, age, gender, weight and height — and get your BMI result with a full personalized guidance plan based on your category. Not 
+
+just a number.
 
 ---
 
@@ -30,21 +32,30 @@ A clean Android application that calculates BMI and provides personalized health
 
 ### ✦ Features
 
-- **Interactive UI:** Uses sliders for picking height.
-- **Tailored Guidance:** Gives different health advice based on your score.
-- **Input Validation:** Stops users if they leave text boxes empty.
+-Personalized welcome — enter your name, age and gender before starting
+
+-Gender-aware avatar on the result screen (male/female character)
+
+-BMI result with plain-English verdict (Underweight / Normal / Overweight / Obese)
+
+-Full meal and workout guidance per category — Morning, Snack, Lunch and more
+
+-Meal suggestions are gender-specific (e.g. egg for male, paneer for female)
+
+-Input validation — won't let you proceed with empty fields
 
 ---
 
 ### 🛠️ Tech Stack
 
 - **Language:** Kotlin
-- **UI Design:** XML Layouts
+- **UI Design:** XML Layouts , scrollview 
 - **IDE:** Android Studio
+- concepts: Intent , logic handling 
 
 ---
 
-### 🚀 How to Run It
+### ▶ How to Run It
 
 1. Clone this repository.
 2. Open the project in **Android Studio**.
@@ -54,5 +65,18 @@ A clean Android application that calculates BMI and provides personalized health
 
 ### 💡 What I Learned Building This
 
-This is my first Android project! I learned how to move data between different screens using Intents, how to make custom layouts using XML, and how to write logic to calculate health metrics based on user inputs. 
+This was my first Android project and it ended up being much more than I originally planned.
 
+It started simple — just calculate BMI and show the result. But then I thought, what's the point of knowing your BMI if the app doesn't tell you what to do about it? So I added a full personalized  guidance section for each category, and made it gender-specific on top of that. That's when it stopped feeling like a practice project and started feeling like something real.
+
+Building the three-screen flow was where I got comfortable with Intents — passing name, age, and gender from screen one all the way through to the result screen. The gender avatar was a small touch but it made the result feel personal, which I liked.
+
+-------------------
+###🔧 What I'd improve next
+
+
+-Add a BMI history tracker so users can see progress over time
+
+-Metric and imperial unit toggle
+
+-Animated result reveal
