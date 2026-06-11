@@ -6,6 +6,10 @@ on your category. Not just a number. Actually useful.
 --------------------------------------------------------------------------------------------------------------------------------
 ✦ Screenshots
 ![Uploading WhatsApp Image 2026-06-11 at 3.05.26 PM.jpeg…]()
+<img width="1080" height="2340" alt="WhatsApp Image 2026-06-11 at 3 05 26 PM (1)" src="https://github.com/user-attachments/assets/894caccc-d498-4fca-9896-a4573ab492df" />
+<img width="738" height="1600" alt="WhatsApp Image 2026-06-11 at 3 05 27 PM" src="https://github.com/user-attachments/assets/78d7b9e1-ea40-4c18-9126-1fe26800bb2b" />
+<img width="1080" height="1288" alt="WhatsApp Image 2026-06-11 at 3 22 12 PM" src="https://github.com/user-attachments/assets/31d1cf8c-f964-47b9-be57-c7eae5347983" />
+<img width="1080" height="1480" alt="WhatsApp Image 2026-06-11 at 3 22 12 PM (1)" src="https://github.com/user-attachments/assets/714140dd-64fa-43a1-9818-7e76dec4ada8" />
 
 
 
