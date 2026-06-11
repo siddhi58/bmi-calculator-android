@@ -1,4 +1,4 @@
-<img width="1080" height="2340" alt="WhatsApp Image 2026-06-11 at 3 05 26 PM" src="https://github.com/user-attachments/assets/22edb683-bfff-4347-bb02-ee42aaf452d8" />BMI Calculator 🩺
+BMI Calculator 🩺
 
 Enter your name, age, gender, weight and height — and get your BMI result with a full personalized guidance plan based 
 on your category. Not just a number. Actually useful.
