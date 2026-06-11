@@ -7,7 +7,8 @@ A clean Android application that calculates BMI and provides personalized health
 ### 📱 Application Previews
 
 | Screen 1 |
-|(<img width="300" height="400" alt="WhatsApp Image 2026-06-11 at 3 05 26 PM" src="https://github.com/user-attachments/assets/9fed5393-73dc-4e40-ada1-59d6c0b260dd" />)|
+| :---: | 
+|<img width="300" height="400" alt="WhatsApp Image 2026-06-11 at 3 05 26 PM" src="https://github.com/user-attachments/assets/9fed5393-73dc-4e40-ada1-59d6c0b260dd" />|
 
 ---
 
