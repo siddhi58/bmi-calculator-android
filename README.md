@@ -5,11 +5,11 @@ on your category. Not just a number. Actually useful.
 
 --------------------------------------------------------------------------------------------------------------------------------
 ✦ Screenshots
-![Uploading WhatsApp Image 2026-06-11 at 3.05.26 PM.jpeg…]()
-<img width="1080" height="2340" alt="WhatsApp Image 2026-06-11 at 3 05 26 PM (1)" src="https://github.com/user-attachments/assets/894caccc-d498-4fca-9896-a4573ab492df" />
-<img width="738" height="1600" alt="WhatsApp Image 2026-06-11 at 3 05 27 PM" src="https://github.com/user-attachments/assets/78d7b9e1-ea40-4c18-9126-1fe26800bb2b" />
-<img width="1080" height="1288" alt="WhatsApp Image 2026-06-11 at 3 22 12 PM" src="https://github.com/user-attachments/assets/31d1cf8c-f964-47b9-be57-c7eae5347983" />
-<img width="1080" height="1480" alt="WhatsApp Image 2026-06-11 at 3 22 12 PM (1)" src="https://github.com/user-attachments/assets/714140dd-64fa-43a1-9818-7e76dec4ada8" />
+<img width="500" height="300" alt="WhatsApp Image 2026-06-11 at 3 05 26 PM" src="https://github.com/user-attachments/assets/889ba657-ba0b-4836-bb9a-af97ae5c0c1d" />
+<img width="500" height="300" alt="WhatsApp Image 2026-06-11 at 3 05 26 PM (1)" src="https://github.com/user-attachments/assets/c986504c-09cd-4752-8c9b-6eb97b80accc" />
+<img width="500" height="300" alt="WhatsApp Image 2026-06-11 at 3 05 27 PM" src="https://github.com/user-attachments/assets/ace43f9d-a130-4dc2-b431-ddb975356ae3" />
+<img width="500" height="300" alt="WhatsApp Image 2026-06-11 at 3 22 12 PM" src="https://github.com/user-attachments/assets/225b12ab-b7d2-4285-a666-17017630e519" />
+<img width="500" height="300" alt="WhatsApp Image 2026-06-11 at 3 22 12 PM (1)" src="https://github.com/user-attachments/assets/91b38146-7867-4743-a5cf-b16de0f48d2e" />
 
 
 
